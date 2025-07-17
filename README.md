@@ -30,6 +30,7 @@ This repository contains the Power BI dashboard developed for **Blinkit – Indi
   - High-contrast color scheme for readability
 
 ---
+<img width="1420" height="801" alt="Screenshot 2025-07-17 225013" src="https://github.com/user-attachments/assets/ffdbaf34-76d2-4e9c-9a0a-0ad43e90c397" />
 
 ## 🧩 Files Included
 
@@ -63,12 +64,13 @@ This repository contains the Power BI dashboard developed for **Blinkit – Indi
 For more on good Power BI practices, refer to the `Good practices to get started.docx`.
 
 ---
+<img width="1414" height="811" alt="Screenshot 2025-07-17 224839" src="https://github.com/user-attachments/assets/d9432cb0-d408-4f2b-a077-840edafc9173" />
 
 ## 📩 Contact
 
 For feedback, suggestions, or improvements:
-**Team Blinkit BI**  
-📧 support@blinkit.in
+**Prasad Parjane**  
+ parjaneprasad4@gmail.com
 
 ---
 
